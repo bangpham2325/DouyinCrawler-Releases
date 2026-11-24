@@ -1,0 +1,36 @@
+{
+  "version": "1.0.2",
+  "release_date": "2026-11-24",
+  "url": "https://github.com/bangpham2325/DouyinCrawler-Releases/releases/download/v1.0.2/DouyinCrawler_v1.0.2_Setup.exe",
+  "download_url": "https://github.com/bangpham2325/DouyinCrawler-Releases/releases/download/v1.0.2/DouyinCrawler_v1.0.2_Windows_Portable.zip",
+  "sha256": "f5a0598de8ea46496f21fed4271c8b7406bba0ff80ba8a033c864fb6da5ad9b5",
+  "download_url_portable": "https://github.com/bangpham2325/DouyinCrawler-Releases/releases/download/v1.0.2/DouyinCrawler_v1.0.2_Windows_Portable.zip",
+  "sha256_portable": "f5a0598de8ea46496f21fed4271c8b7406bba0ff80ba8a033c864fb6da5ad9b5",
+  "download_url_installer": "https://github.com/bangpham2325/DouyinCrawler-Releases/releases/download/v1.0.2/DouyinCrawler_v1.0.2_Setup.exe",
+  "sha256_installer": "81e8d8e9417b5b8b9c5a3f66290cf5dce13b2a9ae54b21541a2f5d5c79eca785",
+  "features": [
+    "Official v1.0.0 release",
+    "AI transcription + translation offline",
+    "In-app video editor with CapCut-style timeline",
+    "Offline HWID-based license activation"
+  ],
+  "changelog": [
+    {
+      "text": "Official release v1.0.2",
+      "type": "new"
+    },
+    {
+      "text": "AI transcription + translation (100% offline)",
+      "type": "new"
+    },
+    {
+      "text": "CapCut-style timeline video editor",
+      "type": "new"
+    },
+    {
+      "text": "One-time offline HWID license activation",
+      "type": "new"
+    }
+  ],
+  "critical": false
+}
