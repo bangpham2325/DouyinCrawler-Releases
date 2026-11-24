@@ -1,13 +1,13 @@
 {
-  "version": "1.0.4",
+  "version": "1.0.5",
   "release_date": "2026-11-24",
-  "url": "https://github.com/bangpham2325/DouyinCrawler-Releases/releases/download/v1.0.4/DouyinCrawler_v1.0.4_Setup.exe",
-  "download_url": "https://github.com/bangpham2325/DouyinCrawler-Releases/releases/tag/v1.0.4",
-  "sha256": "94d95243c78f23fdb488234e3dec31de57a637f8ec5b8858af0bf5d73ac533c6",
-  "download_url_portable": "https://github.com/bangpham2325/DouyinCrawler-Releases/releases/download/v1.0.4/DouyinCrawler_v1.0.4_Windows_Portable.zip",
-  "sha256_portable": "94d95243c78f23fdb488234e3dec31de57a637f8ec5b8858af0bf5d73ac533c6",
-  "download_url_installer": "https://github.com/bangpham2325/DouyinCrawler-Releases/releases/download/v1.0.4/DouyinCrawler_v1.0.4_Setup.exe",
-  "sha256_installer": "3823d9a3c93edceb6628a67f6870f6b67e7005f611f37f4e89af7a791f9fc7e8",
+  "url": "https://github.com/bangpham2325/DouyinCrawler-Releases/releases/download/v1.0.5/DouyinCrawler_v1.0.5_Setup.exe",
+  "download_url": "https://github.com/bangpham2325/DouyinCrawler-Releases/releases/tag/v1.0.5",
+  "sha256": "557bbb2635e89043bd7020c86d548a3e748e21c245f6323110231ba1c9070df8",
+  "download_url_portable": "https://github.com/bangpham2325/DouyinCrawler-Releases/releases/download/v1.0.5/DouyinCrawler_v1.0.5_Windows_Portable.zip",
+  "sha256_portable": "557bbb2635e89043bd7020c86d548a3e748e21c245f6323110231ba1c9070df8",
+  "download_url_installer": "https://github.com/bangpham2325/DouyinCrawler-Releases/releases/download/v1.0.5/DouyinCrawler_v1.0.5_Setup.exe",
+  "sha256_installer": "73417d2336c105bcbdb99a11304e5e219f201d184ea2d63975b70b127a82a363",
   "features": [
     "Official v1.0.0 release",
     "AI transcription + translation offline",
@@ -16,7 +16,7 @@
   ],
   "changelog": [
     {
-      "text": "Official release v1.0.4",
+      "text": "Official release v1.0.5",
       "type": "new"
     },
     {
