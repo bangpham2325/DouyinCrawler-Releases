@@ -1,35 +1,35 @@
 {
-  "version": "1.0.6",
-  "release_date": "2026-11-26",
-  "url": "https://github.com/bangpham2325/DouyinCrawler-Releases/releases/download/v1.0.6/DouyinCrawler_v1.0.6_Setup.exe",
-  "download_url": "https://github.com/bangpham2325/DouyinCrawler-Releases/releases/tag/v1.0.6",
-  "sha256": "86e66895fe5c3de10cd6831702003492b1ab571281d0f2fc2c9db39fb90a4e4a",
-  "download_url_portable": "https://github.com/bangpham2325/DouyinCrawler-Releases/releases/download/v1.0.6/DouyinCrawler_v1.0.6_Windows_Portable.zip",
-  "sha256_portable": "86e66895fe5c3de10cd6831702003492b1ab571281d0f2fc2c9db39fb90a4e4a",
-  "download_url_installer": "https://github.com/bangpham2325/DouyinCrawler-Releases/releases/download/v1.0.6/DouyinCrawler_v1.0.6_Setup.exe",
-  "sha256_installer": "59ee4c599b10f1cc5e07ace36852f39c5f822858b084371da0bbdad51effe76f",
+  "version": "1.0.7",
+  "release_date": "2026-11-27",
+  "url": "https://github.com/bangpham2325/DouyinCrawler-Releases/releases/download/v1.0.7/DouyinCrawler_v1.0.7_Setup.exe",
+  "download_url": "https://github.com/bangpham2325/DouyinCrawler-Releases/releases/tag/v1.0.7",
+  "sha256": "61d7682d65e1e2fb89f99d88f64a5834e335aa7e67908059264ddd7584a102f5",
+  "download_url_portable": "https://github.com/bangpham2325/DouyinCrawler-Releases/releases/download/v1.0.7/DouyinCrawler_v1.0.7_Windows_Portable.zip",
+  "sha256_portable": "61d7682d65e1e2fb89f99d88f64a5834e335aa7e67908059264ddd7584a102f5",
+  "download_url_installer": "https://github.com/bangpham2325/DouyinCrawler-Releases/releases/download/v1.0.7/DouyinCrawler_v1.0.7_Setup.exe",
+  "sha256_installer": "01a13480d2e7d4d43b40ea0d25efb26e19ba36ebde8bf072a39526bc94e9482a",
   "features": [
-    "Đọc phụ đề tiếng Trung in sẵn trên video bằng OCR",
-    "Dịch tiếng Việt xưng hô đúng quan hệ nhân vật",
-    "AI transcription + translation",
-    "CapCut-style timeline video editor"
+    "Official v1.0.0 release",
+    "AI transcription + translation offline",
+    "In-app video editor with CapCut-style timeline",
+    "Offline HWID-based license activation"
   ],
   "changelog": [
     {
-      "text": "Đọc phụ đề tiếng Trung in sẵn (OCR) thay cho nhận dạng giọng nói khi có",
+      "text": "Official release v1.0.7",
       "type": "new"
     },
     {
-      "text": "Xác định ai nói với ai trước khi dịch để xưng hô nhất quán",
+      "text": "AI transcription + translation (100% offline)",
       "type": "new"
     },
     {
-      "text": "Xưng hô theo quan hệ: bố/mẹ – con, anh/chị – em, bạn bè tao – mày",
-      "type": "imp"
+      "text": "CapCut-style timeline video editor",
+      "type": "new"
     },
     {
-      "text": "Script xuất ra sạch, không còn câu mở đầu thừa của AI",
-      "type": "fix"
+      "text": "One-time offline HWID license activation",
+      "type": "new"
     }
   ],
   "critical": false
